@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lang">
+        <item>
+            uz
+        </item>
+        <item>
+            rus
+        </item>
+        <item>
+            eng
+        </item>
+    </string-array>
+</resources>
